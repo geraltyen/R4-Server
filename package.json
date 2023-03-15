@@ -1,0 +1,12 @@
+{
+  "name": "r4-server",
+  "version": "1.0.0",
+  "description": "Just a json server for rm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
